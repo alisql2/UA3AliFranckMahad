@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C65D033-CAC3-41A6-9924-291EDE937572}|test.csproj|c:\\users\\alisq\\onedrive\\desktop\\exercice\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C65D033-CAC3-41A6-9924-291EDE937572}|test.csproj|c:\\users\\alisq\\onedrive\\desktop\\ua3alifranckmahad\\exercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C65D033-CAC3-41A6-9924-291EDE937572}|test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\Program.cs",
+              "ToolTip": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T17:00:16.813Z",
               "EditorCaption": ""

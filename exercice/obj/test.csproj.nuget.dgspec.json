@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\test.csproj": {}
+    "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\test.csproj": {
+    "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\test.csproj",
+        "projectPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\test.csproj",
         "packagesPath": "C:\\Users\\alisq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\exercice\\test\\obj\\",
+        "outputPath": "C:\\Users\\alisq\\OneDrive\\Desktop\\UA3AliFranckMahad\\exercice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
